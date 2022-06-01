@@ -1,6 +1,6 @@
 ---
 icon:
-  type: heroicons-outline:book-open
+  type: uil:film
   color: red
 ---   
 

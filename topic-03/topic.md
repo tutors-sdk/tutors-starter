@@ -1,6 +1,6 @@
 ---
 icon:
-  type: heroicons-outline:book-open
+  type: uil:archive
   color: red
 ---   
 

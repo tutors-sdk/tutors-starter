@@ -1,6 +1,6 @@
 ---
 icon:
-  type: heroicons-outline:book-open
+  type: uil:flask
   color: red
 ---    
 
