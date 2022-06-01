@@ -1,7 +1,7 @@
 ---
 icon:
   type: uil:film
-  color: red
+  color: 00979b
 ---   
 
 # Units with Videos
