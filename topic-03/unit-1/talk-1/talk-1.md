@@ -1,7 +1,7 @@
 ---
 icon:
   type: uil:presentation
-  color: red
+  color: 00979b
 ---   
 
 Lecture 9

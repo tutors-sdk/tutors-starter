@@ -1,7 +1,7 @@
 ---
 icon:
   type: uil:headphones
-  color: red
+  color: cd344f
 ---   
 
 Podcast

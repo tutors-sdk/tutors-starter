@@ -1,7 +1,7 @@
 ---
 icon:
   type: uil:archive
-  color: red
+  color: 00979b
 ---   
 
 Resource I

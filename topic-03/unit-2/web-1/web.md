@@ -1,7 +1,7 @@
 ---
 icon:
   type: uil:video
-  color: red
+  color: cd344f
 ---   
 
 Zoom Morning Room
