@@ -1,6 +1,6 @@
 ---
 icon:
-  type: uil:film
+  type: uil:youtube
   color: 00979b
 ---   
 
