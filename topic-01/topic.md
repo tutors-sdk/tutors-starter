@@ -1,6 +1,6 @@
 ---
 icon:
-  type: uil:flask
+  type: uil:presentation
   color: red
 ---    
 
