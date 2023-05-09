@@ -4,6 +4,6 @@ icon:
   color: 00979b
 ---   
 
-# Units with Videos +
+# Side Units +
 
-This topic has 2 units - these have archives and links to zoom and podcasts
+This topic has a side unit + untils that links to  archives, zoom calls and podcasts
