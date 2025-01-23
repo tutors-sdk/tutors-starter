@@ -6,8 +6,4 @@ teams: https://teams.microsoft.com/l/meetup-join/19:bfb1c5e1dc544a15aad497061530
 credits: Your Name Here, WIT
 parent: course/tutors-reference-manual
 github: https://github.com/tutors-sdk/tutors-starter/blob/master
-
-courseTheme: 
-  theme: classic
-  lightMode: dark
-  codeTheme: solarized-light
+llm: 2
