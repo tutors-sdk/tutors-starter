@@ -7,4 +7,4 @@ credits: Your Name Here, WIT
 parent: course/tutors-reference-manual
 github: https://github.com/tutors-sdk/tutors-starter/blob/master
 llm: 2
-lightboxpdf: true
+# lightboxpdf: true
