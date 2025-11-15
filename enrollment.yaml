@@ -1,6 +1,6 @@
 authorisedIds:
 - edeleastar
-- edel020
+# - edel020
 students:
   - name: Eamonn de Leasytar
     github: edeleastar
