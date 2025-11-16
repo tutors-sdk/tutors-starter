@@ -1,9 +1,5 @@
-whitelist:
-# - edeleastar
-- edel020
 students:
   - name: Eamonn de Leasytar
     github: edeleastar
   - name: Student McStudious
     github: edel020
-
