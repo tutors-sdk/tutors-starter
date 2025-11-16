@@ -1,5 +1,5 @@
-authorisedIds:
-- edeleastar
+whitelist:
+# - edeleastar
 - edel020
 students:
   - name: Eamonn de Leasytar
